@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=1000&pause=500&color=6F67F7&center=true&vCenter=true&repeat=false&width=435&lines=WEB3+DEV"  />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&duration=3000&pause=500&color=6F67F7&center=true&vCenter=true&repeat=false&width=435&lines=WEB3+DEV"  />
 </div>  
 <div align="center">  
   <a href="https://github.com/RodrigoSKohl">
