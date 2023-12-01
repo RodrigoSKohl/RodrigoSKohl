@@ -26,13 +26,18 @@
 </div>
 </br>
 <div>
-<img src="./icons/react.svg">
+<img src="./icons/react.svg"> <img src="./icons/mongoose.svg">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=2000&pause=2000&color=007A00&center=false&vCenter=true&multiline=false&repeat=false&random=true&width=200&height=20&lines=LIBRARIES" alt="Typing SVG" />
 </div>
 </br>
 <div>
 <img src="./icons/next.svg"> <img src="./icons/bootstrap.svg"> <img src="./icons/tailwind.svg"> 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=2000&pause=2000&color=007A00&center=false&vCenter=true&multiline=false&repeat=false&random=true&width=200&height=20&lines=FRAMEWORKS" alt="Typing SVG" />
+</div>
+</br>
+<div>
+<img src="./icons/sqlite.svg"> <img src="./icons/mysql.svg"> <img src="./icons/mongodb.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=2000&pause=2000&color=007A00&center=false&vCenter=true&multiline=false&repeat=false&random=true&width=200&height=20&lines=DATABASE" alt="Typing SVG" />
 </div>
 </br>
 <div>
@@ -43,4 +48,9 @@
 <div>
 <img src="./icons/figma.svg"> <img src="./icons/xd.svg"> <img src="./icons/photoshop.svg"> <img src="./icons/illustrator.svg">
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=2000&pause=2000&color=007A00&center=false&vCenter=true&multiline=false&repeat=false&random=true&width=200&height=20&lines=UI/UX" alt="Typing SVG" />
+</div>
+</br>
+<div>
+<img src="./icons/cloudflare.svg">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&duration=2000&pause=2000&color=007A00&center=false&vCenter=true&multiline=false&repeat=false&random=true&width=200&height=20&lines=CDN" alt="Typing SVG" />
 </div>
