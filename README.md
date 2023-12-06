@@ -29,7 +29,7 @@
  </table>
 <!-- GIT STATS -->
 <div align="center">  
-  <a href="https://github.com/RodrigoSKohl">
+  <a href="../../">
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoSKohl&show_icons=true&custom_title=&text_bold=true&theme=shadow_green&include_all_commits=false&count_private=true&hide_border=true&bg_color=00000000"/>
   <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSKohl&custom_title=&text_bold=true&layout=compact&langs_count=7&theme=shadow_green&bg_color=00000000&hide_border=true"/>
 </div>
