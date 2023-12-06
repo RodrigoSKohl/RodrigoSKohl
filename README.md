@@ -13,6 +13,28 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=30o&duration=1000&pause=2000&repeat=false&color=007A00&center=true&vCenter=true&width=435&lines=TECHS"/>
 </div>
-<div align="center">  
-<img src="./icons/javascript.svg">  <img src="./icons/typescript.svg"> <img src="./icons/solidity.svg"> <img src="./icons/appscript.svg"> <img src="./icons/html.svg"> <img src="./icons/css.svg"> <img src="./icons/json.svg"> <img src="./icons/node.svg"> <img src="./icons/tsnode.svg"> <img src="./icons/react.svg"> <img src="./icons/mongoose.svg"> <img src="./icons/next.svg"> <img src="./icons/bootstrap.svg"> <img src="./icons/tailwind.svg"> <img src="./icons/sqlite.svg"> <img src="./icons/mysql.svg"> <img src="./icons/mongodb.svg"> <img src="./icons/vscode.svg"> <img src="./icons/eclipse.svg"> <img src="./icons/dreamweaver.svg"> <img src="./icons/figma.svg"> <img src="./icons/xd.svg"> <img src="./icons/photoshop.svg"> <img src="./icons/illustrator.svg"> <img src="./icons/cloudflare.svg">
-</div>
+ <table align="center">
+    <tr>
+   <td align="center "colspan="6">BACKEND</td>
+    </tr>
+    <tr>
+      <td><img src="./icons/javascript.svg" alt="JavaScript"></td><td><img src="./icons/typescript.svg" alt="TypeScript"></td><td><img src="./icons/solidity.svg" alt="Solidity"></td>      <td><img src="./icons/appscript.svg" alt="Apps Script"></td><td><img src="./icons/node.svg" alt="Node.js"></td><td><img src="./icons/tsnode.svg" alt="Node.ts"></td>
+    </tr>
+ </table>
+    <table align="center">
+    <tr>
+    <td align="center "colspan="6">FRONTEND</td>
+    </tr>
+     <tr>
+       <td><img src="./icons/html.svg" alt="HTML"></td><td><img src="./icons/css.svg" alt="CSS"></td><td><img src="./icons/react.svg" alt="REACT"></td><td><img src="./icons/next.svg" alt="NEXT"></td><td><img src="./icons/bootstrap.svg" alt="BOOTSTRAP"></td><td><img src="./icons/tailwind.svg" alt="TAILWIND"></td>
+    </tr>
+ </table>
+ <table align="center">
+    <tr>
+    <td align="center "colspan="3">DATABASE</td><td align="center "colspan="2">IDE</td>
+    </tr>
+     <tr>
+       <td><img src="./icons/mysql.svg" alt="MYSQL"></td><td><img src="./icons/sqlite.svg" alt="SQLITE"></td><td><img src="./icons/mongodb.svg" alt="MONGODB"></td>
+       <td><img src="./icons/eclipse.svg" alt="ECLIPSE"></td><td><img src="./icons/vscode.svg" alt="VSCODE"></td></td>
+    </tr>
+ </table>
