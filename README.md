@@ -27,7 +27,6 @@
        <td><img src="./icons/eclipse.svg" alt="ECLIPSE"></td><td><img src="./icons/vscode.svg" alt="VSCODE"></td></td>
     </tr>
  </table>
-<br>
 <!-- GIT STATS -->
 <div align="center">  
   <a href="https://github.com/RodrigoSKohl">
