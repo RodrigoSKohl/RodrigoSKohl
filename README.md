@@ -4,10 +4,10 @@
 </div>
  <table align="center">
     <tr>
-   <td align="center "colspan="9">PL</td>
+   <td align="center "colspan="8">PL</td>
     </tr>
     <tr>
-      <td><img src="./icons/javascript.svg" alt="JavaScript"></td><td><img src="./icons/typescript.svg" alt="TypeScript"></td><td><img src="./icons/solidity.svg" alt="Solidity"></td>      <td><img src="./icons/appscript.svg" alt="Apps Script"></td><td><img src="./icons/node.svg" alt="Node.js"></td><td><img src="./icons/tsnode.svg" alt="Node.ts"></td><td><img src="./icons/python.svg" alt="Python"></td><td>
+      <td><img src="./icons/javascript.svg" alt="JavaScript"></td><td><img src="./icons/typescript.svg" alt="TypeScript"></td><td><img src="./icons/solidity.svg" alt="Solidity"></td>      <td><img src="./icons/appscript.svg" alt="Apps Script"></td><td><img src="./icons/node.svg" alt="Node.js"></td><td><img src="./icons/tsnode.svg" alt="Node.ts"></td><td><img src="./icons/python.svg" alt="Python"></td>
     </tr>
     </tr>
  </table>
