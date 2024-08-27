@@ -4,27 +4,27 @@
 </div>
  <table align="center">
     <tr>
-   <td align="center "colspan="6">BACKEND</td>
+   <td align="center "colspan="7">PL</td>
     </tr>
     <tr>
-      <td><img src="./icons/javascript.svg" alt="JavaScript"></td><td><img src="./icons/typescript.svg" alt="TypeScript"></td><td><img src="./icons/solidity.svg" alt="Solidity"></td>      <td><img src="./icons/appscript.svg" alt="Apps Script"></td><td><img src="./icons/node.svg" alt="Node.js"></td><td><img src="./icons/tsnode.svg" alt="Node.ts"></td>
+      <td><img src="./icons/javascript.svg" alt="JavaScript"></td><td><img src="./icons/typescript.svg" alt="TypeScript"></td><td><img src="./icons/solidity.svg" alt="Solidity"></td>      <td><img src="./icons/appscript.svg" alt="Apps Script"></td><td><img src="./icons/node.svg" alt="Node.js"></td><td><img src="./icons/tsnode.svg" alt="Node.ts"></td><td><img src="./icons/python.svg" alt="Python"></td>
     </tr>
  </table>
     <table align="center">
     <tr>
-    <td align="center "colspan="6">FRONTEND</td>
+    <td align="center "colspan="7">FW</td>
     </tr>
      <tr>
-       <td><img src="./icons/html.svg" alt="HTML"></td><td><img src="./icons/css.svg" alt="CSS"></td><td><img src="./icons/react.svg" alt="REACT"></td><td><img src="./icons/next.svg" alt="NEXT"></td><td><img src="./icons/bootstrap.svg" alt="BOOTSTRAP"></td><td><img src="./icons/tailwind.svg" alt="TAILWIND"></td>
+       <td><img src="./icons/html.svg" alt="HTML"></td><td><img src="./icons/css.svg" alt="CSS"></td><td><img src="./icons/react.svg" alt="REACT"></td><td><img src="./icons/next.svg" alt="NEXT"></td><td><img src="./icons/bootstrap.svg" alt="BOOTSTRAP"></td><td><img src="./icons/tailwind.svg" alt="TAILWIND"></td><td><img src="./icons/express.svg" alt="EXPRESS"></td>
     </tr>
  </table>
  <table align="center">
     <tr>
-    <td align="center "colspan="3">DATABASE</td><td align="center "colspan="2">IDE</td>
+    <td align="center "colspan="3">DB</td><td align="center "colspan="2">IDE</td>
     </tr>
      <tr>
        <td><img src="./icons/mysql.svg" alt="MYSQL"></td><td><img src="./icons/sqlite.svg" alt="SQLITE"></td><td><img src="./icons/mongodb.svg" alt="MONGODB"></td>
-       <td><img src="./icons/eclipse.svg" alt="ECLIPSE"></td><td><img src="./icons/vscode.svg" alt="VSCODE"></td></td>
+       <td><img src="./icons/vscode.svg" alt="VSCODE"></td></td>
     </tr>
  </table>
 <!-- GIT STATS -->
