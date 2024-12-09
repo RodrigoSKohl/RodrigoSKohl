@@ -30,7 +30,7 @@
           white-space: nowrap;
           animation: matrix infinite;
 	  color: transparent;
-	  animation-delay: 1s;
+	  animation-delay: 1.5s;
         }
 
         .matrix-line:nth-child(1) {
