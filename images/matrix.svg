@@ -24,17 +24,15 @@
   }
 }
 
-        /* Estilos gerais para as linhas */
         .matrix-line {
           font-family: monospace;
           font-size: 24px;
           white-space: nowrap;
-          animation: matrix;
+          animation: matrix infinite;
 	  color: transparent;
-	  animation-delay: 5s;
+	  animation-delay: 1s;
         }
 
-        /* Aplicando animações e duração com base no índice da linha */
         .matrix-line:nth-child(1) {
           animation-duration: 1s;
 	                animation-delay: 19s;
@@ -123,7 +121,6 @@
 
       </style>
 
-      <!-- Linhas com números binários -->
       <div class="matrix-line">1 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0</div>
       <div class="matrix-line">0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 1 0 1 1 0 1 1</div>
       <div class="matrix-line">1 0 1 0 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1 0 0 0</div>
