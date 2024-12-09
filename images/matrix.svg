@@ -28,9 +28,8 @@
           font-family: monospace;
           font-size: 24px;
           white-space: nowrap;
-          animation: matrix infinite;
+          animation: matrix 1s infinite;
 	  color: transparent;
-	  animation-delay: 1.5s;
         }
 
         .matrix-line:nth-child(1) {
