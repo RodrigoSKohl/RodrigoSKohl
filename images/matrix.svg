@@ -28,7 +28,7 @@
           font-family: monospace;
           font-size: 24px;
           white-space: nowrap;
-          animation: matrix 1s infinite;
+          animation: matrix 1s;
 	  color: transparent;
         }
 
@@ -120,26 +120,26 @@
 
       </style>
 
-      <div class="matrix-line">1 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0</div>
-      <div class="matrix-line">0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 0 1 0 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1 0 0 0</div>
-      <div class="matrix-line">0 1 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 0 0 1 1 0 1 0 1 1 1 1 1</div>
-      <div class="matrix-line">1 1 1 1 1 0 1 0 1 0 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1</div>
-      <div class="matrix-line">0 1 0 1 1 0 0 1 1 1 0 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0</div>
-      <div class="matrix-line">1 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 0 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 1 0 1 1 0 0 1 0</div>
-      <div class="matrix-line">1 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0</div>
-      <div class="matrix-line">0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 0 1 0 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1 0 0 0</div>
-      <div class="matrix-line">0 1 1 0 1 0 1 1 0 0 1 1 1 0 1 1 1 0 1 0 1 0 0 1 1 0 1 0 1 1 1 1 1</div>
-      <div class="matrix-line">1 1 1 1 1 0 1 0 1 0 0 1 1 0 1 0 1 1 1 0 0 1 1 0 0 1 0 1 1 0 1 0 1</div>
-      <div class="matrix-line">0 1 0 1 1 0 0 1 1 1 0 0 1 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 0</div>
-      <div class="matrix-line">1 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 0 1 1 1 0 0 1 1 1 1 1 0 1 0 1 1 0 1 0 1 1 1 0 1 1 0 1 1 0 0 1 0</div>
-      <div class="matrix-line">1 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0</div>
-      <div class="matrix-line">0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 1 0 0 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 1 0 1 0 1 0 1 1 0 1 1 0 1 1 0 1 1</div>
-      <div class="matrix-line">1 1 0 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠛⠛⠛⠋⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠙⠛⠛⠛⠿⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⡀⠠⠤⠒⢂⣉⣉⣉⣑⣒⣒⠒⠒⠒⠒⠒⠒⠒⠀⠀⠐⠒⠚⠻⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⡠⠔⠉⣀⠔⠒⠉⣀⣀⠀⠀⠀⣀⡀⠈⠉⠑⠒⠒⠒⠒⠒⠈⠉⠉⠉⠁⠂⠀⠈⠙⢿⣿⣿⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀⠔⠁⠠⠖⠡⠔⠊⠀⠀⠀⠀⠀⠀⠀⠐⡄⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠉⠲⢄⠀⠀⠀⠈⣿⣿⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠊⠀⢀⣀⣤⣤⣤⣤⣀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠜⠀⠀⠀⠀⣀⡀⠀⠈⠃⠀⠀⠀⠸⣿⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⡿⠥⠐⠂⠀⠀⠀⠀⡄⠀⠰⢺⣿⣿⣿⣿⣿⣟⠀⠈⠐⢤⠀⠀⠀⠀⠀⠀⢀⣠⣶⣾⣯⠀⠀⠉⠂⠀⠠⠤⢄⣀⠙⢿⣿</div>
+<div class="matrix-line">⣿⡿⠋⠡⠐⠈⣉⠭⠤⠤⢄⡀⠈⠀⠈⠁⠉⠁⡠⠀⠀⠀⠉⠐⠠⠔⠀⠀⠀⠀⠀⠲⣿⠿⠛⠛⠓⠒⠂⠀⠀⠀⠀⠀⠀⠠⡉⢢⠙⣿</div>
+<div class="matrix-line">⣿⠀⢀⠁⠀⠊⠀⠀⠀⠀⠀⠈⠁⠒⠂⠀⠒⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⢀⣀⡠⠔⠒⠒⠂⠀⠈⠀⡇⣿</div>
+<div class="matrix-line">⣿⠀⢸⠀⠀⠀⢀⣀⡠⠋⠓⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠈⠢⠤⡀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⡠⠀⡇⣿</div>
+<div class="matrix-line">⣿⡀⠘⠀⠀⠀⠀⠀⠘⡄⠀⠀⠀⠈⠑⡦⢄⣀⠀⠀⠐⠒⠁⢸⠀⠀⠠⠒⠄⠀⠀⠀⠀⠀⢀⠇⠀⣀⡀⠀⠀⢀⢾⡆⠀⠈⡀⠎⣸⣿</div>
+<div class="matrix-line">⣿⣿⣄⡈⠢⠀⠀⠀⠀⠘⣶⣄⡀⠀⠀⡇⠀⠀⠈⠉⠒⠢⡤⣀⡀⠀⠀⠀⠀⠀⠐⠦⠤⠒⠁⠀⠀⠀⠀⣀⢴⠁⠀⢷⠀⠀⠀⢰⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣇⠂⠀⠀⠀⠀⠈⢂⠀⠈⠹⡧⣀⠀⠀⠀⠀⠀⡇⠀⠀⠉⠉⠉⢱⠒⠒⠒⠒⢖⠒⠒⠂⠙⠏⠀⠘⡀⠀⢸⠀⠀⠀⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠑⠄⠰⠀⠀⠁⠐⠲⣤⣴⣄⡀⠀⠀⠀⠀⢸⠀⠀⠀⠀⢸⠀⠀⠀⠀⢠⠀⣠⣷⣶⣿⠀⠀⢸⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠁⢀⠀⠀⠀⠀⠀⡙⠋⠙⠓⠲⢤⣤⣷⣤⣤⣤⣤⣾⣦⣤⣤⣶⣿⣿⣿⣿⡟⢹⠀⠀⢸⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠑⠀⢄⠀⡰⠁⠀⠀⠀⠀⠀⠈⠉⠁⠈⠉⠻⠋⠉⠛⢛⠉⠉⢹⠁⢀⢇⠎⠀⠀⢸⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⠈⠢⢄⡉⠂⠄⡀⠀⠈⠒⠢⠄⠀⢀⣀⣀⣰⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⢀⣎⠀⠼⠊⠀⠀⠀⠘⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀⡈⠑⠢⢄⡀⠈⠑⠒⠂⠤⠤⣀⣀⣉⡉⠉⠉⠉⠉⠉⢀⣀⣀⡠⠤⠒⠈⠀⠀⠀⠀⢻⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀⠁⠉⠒⠂⠤⠤⣀⣀⣉⡉⠉⠉⠉⠉⢀⣀⣀⡠⠤⠒⠈⠀⠀⠀⠀⣸⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿</div>
+<div class="matrix-line">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</div>
     </div>
   </foreignObject>
 </svg>
